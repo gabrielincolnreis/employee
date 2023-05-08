@@ -1,0 +1,7 @@
+# AWS properties
+
+aws:
+  access-key: AKIA6CR37JWLSLEOKGPR
+  secret-key: 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
+  region: us-east-1
+  endpoint: dynamodb.us-east-1.amazonaws.com
